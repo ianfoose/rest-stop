@@ -16,7 +16,7 @@
   "author": "Ian Foose",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mysql": "^2.16.0"
   }
 }
